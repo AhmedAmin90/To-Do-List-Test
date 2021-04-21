@@ -1,0 +1,26 @@
+body{
+  background-color: aqua;
+}
+
+.project-list{
+  height:100vh;
+}
+
+.project-title-input{
+  height: 35px;
+}
+
+.hide {
+  visibility: hidden;
+}
+
+.show{
+  visibility: visible;
+}
+
+.project-name-card:hover{
+  cursor: pointer;
+  background-color: green  !important;
+  color: white  !important;
+  transition: 0.5s;
+}
